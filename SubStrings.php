@@ -30,8 +30,8 @@
 			return $answerSubsstring; 
 		} 
 	}
-/* 	$obj = new MaximumUniqueSubstring; 
-	echo $obj->findMaximumUniqueSubstring("qwterfaderqwsbgFAJds"); */
+ 	$obj = new MaximumUniqueSubstring; 
+	echo $obj->findMaximumUniqueSubstring("qwterfaderqwsbgFAJds");
 	?>
 	 </body>
 </html>
